@@ -25,9 +25,9 @@
 
 				<div class="d-flex">
 					Admin
-					<div class="d-none d-sm-flex">istrator &zwnj;</div>
-					<div class="d-none d-sm-flex">Lee Kang-Jin &zwnj;</div>
-					<div class="d-flex d-sm-none">&zwnj; LKJ &zwnj;</div>2
+					<div class="d-none d-md-flex">istrator &zwnj;</div>
+					<div class="d-none d-md-flex">Lee Kang-Jin &zwnj;</div>
+					<div class="d-flex d-md-none">&zwnj; LKJ &zwnj;</div>2
 				</div>
 
 				<v-btn @click="switchimg()" :color="num ? 'blue darken-1' : 'green darken-1'">{{curimg}}</v-btn>
