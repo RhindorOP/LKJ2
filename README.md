@@ -1,24 +1,7 @@
-# lkj2
+# Lee Kang-Jin 1
 
-## Project setup
-```
-yarn install
-```
+Hey there! This is my attempt at translating Lee Kang Jin 2, along with a new logo and all the editing. Please feel free to contact me if you would like to help with the translations or anything else through reddit, u/RhindorOP.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Website Link
+[rhindorop.github.io/LKJ2](https://rhindorop.github.io/LKJ2/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
