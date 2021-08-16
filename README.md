@@ -1,4 +1,4 @@
-# Lee Kang-Jin 1
+# Lee Kang-Jin 2
 
 Hey there! This is my attempt at translating Lee Kang Jin 2, along with a new logo and all the editing. Please feel free to contact me if you would like to help with the translations or anything else through reddit, u/RhindorOP.
 
